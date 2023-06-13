@@ -1,34 +1,3 @@
-# Expo Router Example
+React Native app using rapid api 
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
-
-## 🚀 How to use
-
-```sh
-npx create-react-native-app -t with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
-
-
-
-## dependencies
-- npm install expo-font axios react-native-dotenv
-
-
-## start server 
-- npm start
-
-** somethimes you need to restart the server after importing something **  
-
-
-## alternative way of running expo if there somethong goes wrong
-<!-- the problem is wifi is blocking the access -->
-- npm install -g expo-cli
-- expo-cli start --tunnel
-
-npx create-expo-app@latest -e with-router
+![Screenshot_2023-06-14-02-13-56-34_f73b71075b1de7323614b647fe394240](https://github.com/imran-24/native_jobs/assets/91665909/55ceffec-0664-44ef-8167-a7d8a18e1437)
